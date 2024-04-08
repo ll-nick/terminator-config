@@ -1,5 +1,6 @@
 [global_config]
 [keybindings]
+  full_screen = <Primary>F11
 [profiles]
   [[default]]
     background_color = "#1e1e2e"
