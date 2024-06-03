@@ -18,4 +18,6 @@
     [[[child1]]]
       type = Terminal
       parent = window0
+      profile = default
+      command = tmux attach || tmux new -s main
 [plugins]
